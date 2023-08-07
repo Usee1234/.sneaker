@@ -1,3 +1,5 @@
+
+
 Welcome to our Shoe Listing Landing Page! Discover an incredible selection of stylish and comfortable shoes that will elevate your fashion game and keep you stepping out in confidence. Whether you're looking for athletic footwear, casual sneakers, formal dress shoes, or trendy boots, we have the perfect pair to suit your needs and individual style.
 
 
@@ -18,8 +20,29 @@ Seamless Checkout Process: Once customers have found their desired pair of shoes
 Mobile-Friendly Design: The landing page is optimized for mobile devices, allowing customers to browse and make purchases conveniently from their smartphones or tablets. This ensures a smooth shopping experience regardless of the device being used.
 
 
-Welcome to our Contact Us page! We believe in providing excellent customer service and ensuring that your experience with us is seamless from start to finish. Our Contact Us navigation is designed to make it easy for you to reach out to us with any questions, concerns, or feedback you may have.
-
+Welcome to our Contact Us page! We believe in providing excellent customer service and ensuring that your experience with us is seamless from start to finish. Our Contact Us navigation is designed to make it easy for you to reach out to us with any questions, concerns, or feedback you  have
 Located prominently within our website's navigation menu, the Contact Us link is just a click away, ensuring quick access whenever you need assistance. By clicking on this link, you'll be directed to a dedicated page where you can find all the necessary information and resources to get in touch with our knowledgeable and friendly customer support team.
 
 On the Contact Us page, you will find various ways to reach us. Our preferred method is often a contact form, where you can fill in your details and provide a brief description of your query or issue. This form allows us to collect the necessary information to assist you effectively and ensures a prompt response tailored to your specific needs.
+
+
+**Live Hosted website:https://vibhuapnashoes.netlify.app/**
+
+
+**Screen shots for desktop view**:
+
+![Screenshot (54)](https://github.com/Usee1234/new-fictional-e-business-website/assets/94893243/095db30b-134a-4faf-a549-7e18b8138e76)
+
+
+![Screenshot (55)](https://github.com/Usee1234/new-fictional-e-business-website/assets/94893243/07df2ae3-cc8c-4bd4-af87-ff0dac528c4d)
+
+
+![Screenshot (57)](https://github.com/Usee1234/new-fictional-e-business-website/assets/94893243/1861fb1a-cc73-42ca-a32e-c85c239a63c1)
+
+![Screenshot (58)](https://github.com/Usee1234/new-fictional-e-business-website/assets/94893243/5e12f03a-29f5-4c60-bdf1-7b3b3aaceb77)
+
+**Screen shots for Mobile view**:
+
+![vibhuapnashoes netlify app_](https://github.com/Usee1234/new-fictional-e-business-website/assets/94893243/3055e0fd-bd42-4826-ac53-78efc178ead8)
+
+
